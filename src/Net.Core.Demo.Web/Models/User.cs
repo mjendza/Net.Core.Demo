@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Net.Core.Demo.Web.Models
+﻿namespace Net.Core.Demo.Web.Models
 {
     public class User
     {
